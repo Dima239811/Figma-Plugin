@@ -1,0 +1,109 @@
+/* body {
+  font-family: 'Segoe UI', 'Inter', Arial, sans-serif;
+  background: linear-gradient(120deg, #F3F6FB 0%, #E6EEFA 100%);
+  color: #23272F;
+  padding: 0;
+  margin: 0;
+  min-width: 350px;
+  min-height: 280px;
+}
+h3 {
+  margin: 18px 0 8px 0;
+  font-size: 1.1em;
+  color: #2D6BF6;
+}
+label {
+  margin-right: 18px;
+  font-size: 1em;
+  vertical-align: middle;
+}
+input[type="radio"] {
+  accent-color: #2D6BF6;
+  margin-right: 2px;
+}
+.form-section {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(45,107,246,0.08);
+  padding: 18px 20px 16px 20px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  transition: box-shadow .2s;
+}
+.form-section:focus-within {
+  box-shadow: 0 4px 24px rgba(45,107,246,0.16);
+}
+p {
+  margin: 0 0 8px 0;
+  font-size: 1em;
+  color: #555;
+}
+input[type="text"], input[type="number"], input[type="file"], input[type="color"] {
+  border: 1px solid #B8C1D1;
+  border-radius: 6px;
+  padding: 4px 8px;
+  font-size: 1em;
+  outline: none;
+  margin-bottom: 6px;
+  margin-right: 8px;
+  margin-top: 2px;
+  background: #F8FAFE;
+  transition: border-color .2s;
+}
+input[type="text"]:focus, input[type="number"]:focus, input[type="color"]:focus {
+  border-color: #2D6BF6;
+  background: #fff;
+}
+input[type="file"] {
+  padding: 4px 2px;
+  background: transparent;
+  border: none;
+}
+button {
+  background: linear-gradient(90deg,#2D6BF6 0%, #6196FF 100%);
+  color: #fff;
+  border: none;
+  border-radius: 7px;
+  padding: 8px 18px;
+  font-size: 1em;
+  font-weight: 600;
+  box-shadow: 0 2px 8px rgba(45,107,246,0.10);
+  cursor: pointer;
+  margin-top: 12px;
+  margin-bottom: 4px;
+  transition: background .2s, box-shadow .2s;
+}
+button:hover, button:focus {
+  background: linear-gradient(90deg,#2D6BF6 30%, #3B82F6 100%);
+  box-shadow: 0 4px 16px rgba(45,107,246,0.16);
+}
+.row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+.row label {
+  margin-right: 10px;
+  min-width: 62px;
+}
+.row input[type="number"] {
+  width: 58px;
+}
+.row input[type="color"] {
+  width: 34px;
+  padding: 2px;
+  border-radius: 50%;
+  border: 1.5px solid #B8C1D1;
+  margin-right: 0;
+}
+#footer {
+  text-align: center;
+  font-size: 0.95em;
+  color: #8A98B8;
+  margin-top: 8px;
+  letter-spacing: 0.04em;
+} */
+
+body {
+  background-color: #d81a1a;
+}
